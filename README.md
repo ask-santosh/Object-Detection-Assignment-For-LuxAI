@@ -17,4 +17,5 @@ progressbar2
 wandb
 black
 
-3. Placed the Data.zip file into the  
+3. Placed the Data.zip file into the  TrainYourOwnYOLO derectory .
+4. 
