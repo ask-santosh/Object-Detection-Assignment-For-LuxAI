@@ -18,4 +18,11 @@ wandb
 black
 
 3. Placed the Data.zip file into the  TrainYourOwnYOLO derectory .
-4. 
+4. Move to the directory TrainYourOwnYOLO/Data/Source_Images/Test_Images
+5. Place your image files into that Test_Images folder .
+6. Then run the file which is inside the TrainYourOwnYOLO/3_Inference/Detector.py i.e python Detector.py
+7. Then see your output in TrainYourOwnYOLO/Data/Source_Images/Test_Image_Detection_Results folder . 
+
+### Description
+
+For image augmentation I use Augmentor library . I trained this model with 100+ images . I don't have a strong system and due to the lack of time I trained this images in TinyYOLO architecture and 40 epochs, so for that the accuracy is quite low . 
